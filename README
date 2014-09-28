@@ -2,3 +2,4 @@ the project is wedsite for huying
 pull test
 git diff order test
 git diff --cached order test
+git status
